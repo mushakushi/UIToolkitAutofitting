@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2024-02-20
+## v.1.0.0 - 2024-02-20
 
 ### Added
-- PLACEHOLDER
+- Button and Text autofitting 
 
-[1.0.0]: https://github.com/mushakushi/PLACEHOLDER
+v1.0.0: https://github.com/Mushakushi/UIToolkitAutofitting/tree/v1.0.0
