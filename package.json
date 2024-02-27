@@ -5,7 +5,7 @@
   	"description": "Allows certain elements in UI Toolkit to be resized based on a percentage.",
   	"unity": "2022.3",
   	"dependencies": {
-    		"com.unity.ui": "1.0.0",
+    		"com.unity.ui": "1.0.0"
   	},
  	"keywords": [ "UI", "UI Toolkit", "Utility" ],
   	"author": {
